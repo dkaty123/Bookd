@@ -106,7 +106,7 @@ const Stats = () => {
       <div className="container px-4 md:px-6">
         <div className="grid grid-cols-2 md:grid-cols-4 gap-8 text-center">
           <div>
-            <div className="text-4xl font-bold mb-2">15k+</div>
+            <div className="text-4xl font-bold mb-2">100+</div>
             <div className="text-brand-100">Active Users</div>
           </div>
           <div>
@@ -114,7 +114,7 @@ const Stats = () => {
             <div className="text-brand-100">User Satisfaction</div>
           </div>
           <div>
-            <div className="text-4xl font-bold mb-2">300+</div>
+            <div className="text-4xl font-bold mb-2">10+</div>
             <div className="text-brand-100">Health Providers</div>
           </div>
           <div>

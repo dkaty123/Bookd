@@ -25,13 +25,13 @@ const Hero = () => {
             
             <h1 className="text-4xl md:text-5xl lg:text-6xl font-bold tracking-tight text-foreground">
               Your personal <span className="relative">
-                <span className="relative z-10 bg-clip-text text-transparent bg-gradient-to-r from-brand-500 to-brand-700">booking assistant</span>
+                <span className="relative z-10 bg-clip-text text-transparent bg-gradient-to-r from-brand-500 to-brand-700">health guardian</span>
                 <span className="absolute -bottom-2 left-0 w-full h-3 bg-brand-200 opacity-50 rounded-lg -z-0"></span>
               </span>
             </h1>
             
             <p className="text-xl text-muted-foreground max-w-[600px] leading-relaxed">
-              Never miss important appointments again. Bookd reminds you of essential meetings and helps you manage your schedule efficiently.
+            Never miss important check-ups again. Bookd reminds you of essential health screenings and helps you maximize your insurance benefits.
             </p>
             
             <div className="flex flex-col sm:flex-row gap-4">
