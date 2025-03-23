@@ -18,7 +18,7 @@ interface Testimonial {
 
 const testimonials: Testimonial[] = [
   {
-    quote: "PreventivePal has transformed how I manage my family's healthcare. The reminders are a lifesaver!",
+    quote: "Bookd has transformed how I manage my family's healthcare. The reminders are a lifesaver!",
     author: "Sarah J.",
     role: "Mother of three",
     avatar: "https://i.pravatar.cc/100?img=1"
@@ -66,7 +66,7 @@ const TestimonialCarousel = () => {
             What our users are saying
           </h2>
           <p className="text-xl text-muted-foreground">
-            Join thousands of people who have improved their preventative healthcare routine with PreventivePal.
+            Join thousands of people who have improved their preventative healthcare routine with Bookd.
           </p>
         </div>
 

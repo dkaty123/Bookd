@@ -54,7 +54,7 @@ const HowItWorks = () => {
             </span>
           </div>
           <h2 className="text-3xl md:text-4xl font-bold mb-4 bg-clip-text text-transparent bg-gradient-to-r from-brand-700 to-brand-500">
-            How PreventivePal Works
+            How Bookd Works
           </h2>
           <p className="text-xl text-muted-foreground">
             Taking control of your preventative healthcare has never been easier.
@@ -137,7 +137,7 @@ const CTASection = () => {
             <div className="p-8 md:p-12">
               <h2 className="text-3xl font-bold mb-4">Ready to take control of your health?</h2>
               <p className="text-muted-foreground mb-6">
-                Join thousands of users who are already benefiting from PreventivePal's smart reminders and health tracking.
+                Join thousands of users who are already benefiting from Bookd smart reminders and health tracking.
               </p>
               <div className="space-y-4">
                 <div className="flex items-center gap-3">

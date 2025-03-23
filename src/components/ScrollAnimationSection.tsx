@@ -88,7 +88,7 @@ const ScrollAnimationSection = () => {
             Powerful Features for Your Health
           </h2>
           <p className="text-xl text-muted-foreground max-w-3xl mx-auto">
-            Discover all the ways PreventivePal can help you take control of your preventative healthcare.
+            Discover all the way Bookd can help you take control of your preventative healthcare.
           </p>
         </div>
 
