@@ -1,69 +1,38 @@
-# Welcome to your Lovable project
+Bookd: Personalized Preventative Care Platform 🩺💡
+Bookd Website
 
-## Project info
+Bookd is an AI-driven platform designed to prioritize preventative care and reduce the burden on Canada’s healthcare system. With personalized health recommendations, automated reminders, and insurance integration, Bookd empowers users to take control of their health.
 
-**URL**: https://bookd.netlify.app/
+🚀 Features
+Personalized Recommendations: AI-powered suggestions for health checkups based on user data 📊
 
-## How can I edit this code?
+Automated Reminders: Custom reminders via text, email, or calendar 🗓️
 
-There are several ways of editing your application.
+Insurance Optimization: Tracks benefits for Premium users and optimizes care scheduling 💳
 
-**Use Lovable**
+Multilingual Support: Supports multiple languages 🌍
 
-Simply visit the [Lovable Project](https://lovable.dev/projects/adcd975e-1232-424c-8466-aff6b584bdb9) and start prompting.
+Custom Health Profile: Input your health data for tailored advice 💪
 
-Changes made via Lovable will be committed automatically to this repo.
+Subscription Tiers: Free and Premium subscriptions for advanced features 💰
 
-**Use your preferred IDE**
+🔧 Tech Stack
+Frontend: React.js, Redux, Tailwind CSS, Axios
 
-If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes will also be reflected in Lovable.
+Backend: Node.js, MongoDB (future integration)
 
-The only requirement is having Node.js & npm installed - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
+Authentication: Firebase Authentication, OAuth 2.0 (Premium)
 
-Follow these steps:
+Hosting: Netlify for frontend, Firebase (backend if needed)
 
-```sh
-# Step 1: Clone the repository using the project's Git URL.
-git clone <YOUR_GIT_URL>
+Version Control: Git & GitHub
 
-# Step 2: Navigate to the project directory.
-cd <YOUR_PROJECT_NAME>
+⚙️ How It Works
+Create Profile & Input Data: Users enter health info (age, weight, family history, etc.) 📝
 
-# Step 3: Install the necessary dependencies.
-npm i
+Get Personalized Recommendations: AI suggests relevant checkups (screenings, wellness visits, etc.) 🩺
 
-# Step 4: Start the development server with auto-reloading and an instant preview.
-npm run dev
-```
+Set Reminders: Automated reminders via email, text, or calendar notifications ⏰
 
-**Edit a file directly in GitHub**
+Insurance Integration: Premium users track and optimize insurance benefits for coverage 💳
 
-- Navigate to the desired file(s).
-- Click the "Edit" button (pencil icon) at the top right of the file view.
-- Make your changes and commit the changes.
-
-**Use GitHub Codespaces**
-
-- Navigate to the main page of your repository.
-- Click on the "Code" button (green button) near the top right.
-- Select the "Codespaces" tab.
-- Click on "New codespace" to launch a new Codespace environment.
-- Edit files directly within the Codespace and commit and push your changes once you're done.
-
-## What technologies are used for this project?
-
-This project is built with .
-
-- Vite
-- TypeScript
-- React
-- shadcn-ui
-- Tailwind CSS
-
-## How can I deploy this project?
-
-Simply open [Lovable](https://lovable.dev/projects/adcd975e-1232-424c-8466-aff6b584bdb9) and click on Share -> Publish.
-
-## I want to use a custom domain - is that possible?
-
-We don't support custom domains (yet). If you want to deploy your project under your own domain then we recommend using Netlify. Visit our docs for more details: [Custom domains](https://docs.lovable.dev/tips-tricks/custom-domain/)
