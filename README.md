@@ -4,7 +4,7 @@
 
 
 [Bookd Website](https://bookd.netlify.app/)
-
+ 
 **Bookd** is an AI-driven platform designed to prioritize **preventative care** and reduce the burden on Canada’s healthcare system. With **personalized health recommendations**, **automated reminders**, and **insurance integration**, Bookd empowers users to take control of their health.
 
 ---
