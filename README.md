@@ -1,6 +1,6 @@
   # Bookd: Personalized Preventative Care Platform 🩺💡
 
-![image](https://github.com/user-attachments/assets/7bebafa8-0aa8-4b0b-8624-3b6dda550dd4)
+![image](https://github.com/user-attachments/assets/7bebafa8-0aa8-4b0b-8624-3b6dda550dd4) 
 
 
 [Bookd Website](https://bookd.netlify.app/)
