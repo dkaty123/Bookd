@@ -2,6 +2,9 @@
 
 ![image](https://github.com/user-attachments/assets/7bebafa8-0aa8-4b0b-8624-3b6dda550dd4) 
 
+<img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/dd4bf557-952c-4824-89c7-ddaeabd4b3a9" />
+
+
 ---
 
 ## 🚀 Features
